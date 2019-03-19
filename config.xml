@@ -7,14 +7,14 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>Salva Salvini</name>
+  <name>PhoneGap Example</name>
 
   <description>
-      platform jumper in hell through boats and nutella and di maio (w/ conte)
+      An example for phonegap build docs.
   </description>
 
-  <author href="www.no-ego.it" email="noyoto@gmail.com>
-      Charlie
+  <author href="https://build.phonegap.com" email="support@phonegap.com">
+      Hardeep Shoker
   </author>
 
 </widget>
